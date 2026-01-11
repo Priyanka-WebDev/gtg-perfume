@@ -437,7 +437,10 @@
   border-radius: 4.95px;
   align-items: center;
   gap: 12px;
-  
+}
+.fragrance-title-box {
+  display: flex;
+  gap: 0.5rem;
 }
 
 /* .fragrance.active {
@@ -557,7 +560,22 @@
   left: 234.99px;
   border: 1.01px solid #919798;
 }
-
+.included-two-img-box {
+  width: 256.630126953125px;
+  height: 94px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 46px;
+  margin: 2rem auto;
+}
+.included-two-img{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
 .includes-box {
   width: 137.08187866210938px;
   height: 20px;
@@ -1266,7 +1284,7 @@ td.highlight {
   .badge {
     width: 95vw;
   }
-  .fragrance.active{
+  .fragrance.active {
     height: 140px;
     margin-left: 0.5rem;
   }
@@ -1530,4 +1548,3 @@ td.highlight {
     flex: 1;
   }
 }
-
