@@ -732,7 +732,6 @@
   height: 712px;
   border-radius: 14.158px;
   overflow: hidden;
-  background: linear-gradient(180deg, #ffffff 0%, #000000 100%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1531,3 +1530,4 @@ td.highlight {
     flex: 1;
   }
 }
+
