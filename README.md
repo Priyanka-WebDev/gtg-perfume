@@ -1,4 +1,4 @@
-📦 GTG Perfume – Product Subscription Page
+📦 GTG Perfume – Product Subscription Page 👉 Live Site: https://priyanka-webdev.github.io/gtg-perfume/
 
 # A pixel-perfect, responsive product subscription page built from Figma designs.
 # Includes interactive gallery, fragrance selection, subscription toggle, accordion sections, and dynamic cart logic.
